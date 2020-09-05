@@ -1,2 +1,2 @@
-# final_project_redi
+# final_project
 dataset of kaggle / google project
